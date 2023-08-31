@@ -2,7 +2,7 @@
 
 
 
-Curse [DIO --- Digital Innovation One](https://www.dio.me/).
+Curse [DIO - Digital Innovation One](https://www.dio.me/).
 
 
 📒 Resumos do curso de Introdução a Nuvem AWS.
@@ -37,7 +37,7 @@ O serviço fornece esses serviços tecnológicos sob demanda através da interne
     <td>01</td>
     <td>Visão Geral - Os 5 Benefícios - Modelos de serviço</td>
     <td align="center">
-     <a href="https://github.com/BrUnO0-0/AWS-Cloud-conceitos/blob/71b49779bbb64b2ee268cdcd1a63aecd98df712f/Part0.md">
+     <a href="https://github.com/BrUnO0-0/AWS-Cloud-conceitos/blob/main/Part0.md">
         <img align="center" width="25px" alt="Part0" src="https://cdn-icons-png.flaticon.com/512/3616/3616556.png">
      </a>
     </td>
